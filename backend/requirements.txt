@@ -18,4 +18,7 @@ fastapi>=0.111.0
 # Uvicorn for serving the FastAPI application
 uvicorn>=0.30.1
 
+# For parsing multipart/form-data (file uploads)
+python-multipart>=0.0.9
+
 # pip install -r requirements.txt
